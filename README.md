@@ -2,7 +2,7 @@
 
 ## App
 
-[Ver video](https://youtu.be/e555NU5TSSE)
+[![Ver video](https://img.youtube.com/vi/e555NU5TSSE/0.jpg)](https://youtu.be/e555NU5TSSE)
 
 ## Objetivos del Proyecto
 

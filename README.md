@@ -1,5 +1,15 @@
 # ForestApp - Plataforma para la creación de bosques mediante la técnica Miyawaki en la Amazonía
 
+## Imágenes de la App
+
+Aquí puedes ver algunas capturas de pantalla de la aplicación **ForestApp**:
+
+![Pantalla 1](img/app1.jpg) _Vista general del Bosque Urbano Loreto_.
+
+![Pantalla 2](img/app2.jpg) _Interfaz de usuario con datos de seguimiento_.
+
+![Pantalla 3](img/app3.jpg) _Vista del mapa con la ubicación del proyecto_.
+
 ## Objetivos del Proyecto
 
 - Desarrollar una aplicación móvil para la creación de bosques utilizando el método Miyawaki.
